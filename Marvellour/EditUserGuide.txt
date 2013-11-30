@@ -1,0 +1,21 @@
+********************************************************************************\15
+                             **************\9
+                             # \9USER GUIDE\15 #
+                             **************\9
+
+Welcome to Marvellour!
+
+EDIT:
+
+Format:- e; [event code]; d/[date]
+
+--> Use the prefix of d/, l/, t/, p/ to edit the relevant category.
+--> Any priority level other than 1 is considered as neutral.
+--> Format to edit multiple categories:-
+    e;[event code]; d/[date]; l/[description]; t/[time]
+--> Event code of the event can be found on the task pane.
+--> If the event is not listed,the code can be found by searching for the event.
+  
+Thank you for using Marvellour! :) 
+
+********************************************************************************\15

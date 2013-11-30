@@ -1,0 +1,20 @@
+********************************************************************************\15
+                             **************\9
+                             # \9USER GUIDE\15 #
+                             **************\9
+
+Welcome to Marvellour!
+
+SEARCH:
+
+Format :- s;[words to be searched] d/[date]; t/[time];  p/1
+
+--> The l/, d/, t/, p/ categories are optional.
+--> Multiple word search is supported.
+--> A list of events matching the search is displayed with the 
+    events which match closest to the search being displayed at 
+    the top of the list.
+
+Thank you for using Marvellour! :) 
+
+********************************************************************************\15

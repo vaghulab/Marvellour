@@ -1,0 +1,12 @@
+Invalid user input for main menu. Sun Nov 06 23:46:34 2011
+String consists of non-integer value Sun Nov 06 23:46:38 2011
+String consists of non-integer value Sun Nov 06 23:48:25 2011
+Invalid user input for main menu. Mon Nov 07 00:04:30 2011
+Invalid user input for main menu. Mon Nov 07 00:04:32 2011
+Invalid user input for main menu. Mon Nov 07 00:40:27 2011
+Invalid user input for main menu. Mon Nov 07 00:40:32 2011
+String consists of non-integer value Mon Nov 07 00:41:01 2011
+Invalid user input for main menu. Mon Nov 07 00:41:34 2011
+Invalid user input for main menu. Mon Nov 07 00:41:45 2011
+String consists of non-integer value Mon Nov 07 00:42:18 2011
+Invalid user input for main menu. Mon Nov 07 00:45:08 2011

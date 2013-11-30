@@ -1,0 +1,18 @@
+********************************************************************************\15
+                             **************\9
+                             # \9USER GUIDE\15 #
+                             **************\9
+
+Welcome to Marvellour!
+
+ADD:
+
+Format:- a; d/[date]; l/[description]; t/[start time];  p/1
+
+--> Parameters d/, l/, t/,p/ can be interchanged and are all optional.
+--> Events can either be high priority or neutral.  
+--> The default priority is neutral.
+
+Thank you for using Marvellour! :) 
+
+********************************************************************************\15

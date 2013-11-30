@@ -1,0 +1,65 @@
+********************************************************************************\15
+                             **************\9
+                             # \9USER GUIDE\15 #
+                             **************\9
+
+Welcome to Marvellour!
+
+Date Format:-
+--> ddmmyyyy is the default date format however the system will also check for 
+    mmddyyyy if the first format fails. 
+--> The date can also be expressed in the following formats 
+    (Let the current year be 2011):
+    1)ddmm : if the date falls in the current year e.g. 1202 or 12/02 or use
+      of any other  separator represents 12th feb, 2011  
+    2)ddmmyy: if the date falls in the current century e.g. 12-02-13 or any 
+      other separator represents 12th Feb, 2013
+    3)dd [month name]: At least 1st 3 letters of the month need to be stated.
+      input e.g. : 11 feb, 1st jan, 4 dec
+    4)days of the week input: e.g. next [day of week]. At least 1st 3 letters 
+      of the day need to be present. Eg. next Wed, cmng Tue, nxt thur.
+    5)next week, today(tdd), tomorrow. Eg. d/today , d/tdd
+
+Time Format:-
+--> Time can be entered in both the 12hr and 24hr format.
+    Eg. 2pm,  5am,  545pm,  1400, 2300. 
+--> If entered in the 12hr format, am/pm should be stated. 
+--> Any form of separator can be used between the digits.
+
+Deleting an event:-
+Format: del;[event code]
+--> The event code can be found in the task pane 
+    (if the event is listed) else by searching the event.
+
+Marking an event as done:-
+Format:  md[event code]
+--> The event code can be found beside the event on the 
+    task pane. 
+--> If the event is not listed in the pane, the code can
+    be found by searching for the event.
+--> A task which is marked as done will not be displayed
+    in the task pane. 
+--> This task would be stored in the task archive. 
+--> Tasks in the archive will be considered for search queries. 
+--> If you do not wish to store the task in the archive,
+    you should permanently delete the event. 
+
+Task archive:-
+--> All events marked as done will be stored in the task archive.
+--> The keyword “arch” displays all events in the archive.
+--> Events in the archive will be considered for search queries. 
+
+Notifications:-
+--> This is accessed by the shortcut “n”. 
+--> All event details of all events which have crossed their deadline (date) 
+    and which have not been marked as done will be displayed. 
+--> We make sure you never forget your event.
+
+Undo/ Redo:-
+--> Just deleted the wrong event? Or added an incorrect event? 
+--> The undo/redo feature can restore multiple previous states of the system . 
+--> Just type “u” for undo and “r” for redo.
+
+Thank you for using Marvellour! :) 
+
+********************************************************************************\15
